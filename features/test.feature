@@ -18,3 +18,6 @@ Funcionalidade: Delete Domain
     E preencha o campo Area de Interesse com "Tester"
     Quando clicar no botão Salvar
     Entao mensagem de sucesso é apresentada
+    """
+    Thank you for registering as a member. Your application has been sent. As soon as your registration is approved, you will be able to log onto the site.
+    """

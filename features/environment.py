@@ -18,5 +18,4 @@ def after_step(context, step):
 
 
 def after_all(context):
-    ...
-    # context.driver.quit()
+    context.driver.quit()
